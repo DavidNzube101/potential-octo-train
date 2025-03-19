@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:443665161510:android:2b6342732b9f89b76d35e7",
         "android_client_info": {
-          "package_name": "app.taxido.driver"
+          "package_name": "com.taxidodriver"
         }
       },
       "oauth_client": [

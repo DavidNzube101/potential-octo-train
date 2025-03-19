@@ -1,4 +1,13 @@
 {
-  "name": "TaxidoDriverUI",
-  "displayName": "TaxidoDriverUI"
+  "expo": {
+    "name": "TaxidoDriverUI",
+    "android": {
+      "package": "com.taxidodriver"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aeef3a11-7c3d-40f3-8e25-a1f6fdf81fa5"
+      }
+    }
+  }
 }
